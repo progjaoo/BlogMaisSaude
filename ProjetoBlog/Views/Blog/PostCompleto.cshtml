@@ -1,0 +1,42 @@
+﻿@model ProjetoBlog.Models.Post
+@{
+    ViewData["Title"] = "PostCompleto";
+}
+
+<h1 class="card-title text-center mt-8" onload="VideoMuda()"> @Html.DisplayFor(model => model.Titulo)</h1>
+<h3 class="card-subtitle text-center mb-3">@Html.DisplayFor(model => model.Area)</h3>
+<div class="container-xxl">
+                    <div class="row">
+                        <div class="col-xl mx-auto">
+                            <div class="card" style="width: 100%;">
+
+                                <div class="card-body">
+                                    <div style="width: 500;"><img src="@Html.DisplayFor(model => model.Imagem)" class="rounded mx-auto d-block"  height="300" ></div>
+
+
+
+                    <pre class="card-text" style="overflow-x: auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            font-size: 15px; 
+font-family: 'Roboto', sans-serif;"> @Html.DisplayFor(model => model.Assunto)</pre>
+                    <div>
+                        <iframe width="885" height="498" src="@Html.DisplayFor(model => model.Video)" id="video"
+                        title="7 - Como Colocar um Vídeo no HTML" frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <br />
+                <br />
+                <br />
+<p style="font-weight:bold;">Data da publicação: @Html.DisplayFor(model => model.DataPost)</p>
+                <div>
+    <a asp-action="Index">RETORNAR</a>
+</div>

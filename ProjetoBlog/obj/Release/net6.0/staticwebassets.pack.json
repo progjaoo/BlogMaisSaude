@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\ProjetoBlog.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjetoBlog.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\Instagram.png",
+      "PackagePath": "staticwebassets\\imagens\\Instagram.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\admin.png",
+      "PackagePath": "staticwebassets\\imagens\\admin.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\amarelinha.jpg",
+      "PackagePath": "staticwebassets\\imagens\\amarelinha.jpg"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\cardimage.jpg",
+      "PackagePath": "staticwebassets\\imagens\\cardimage.jpg"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\cerebro.png",
+      "PackagePath": "staticwebassets\\imagens\\cerebro.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\coracao.jpg",
+      "PackagePath": "staticwebassets\\imagens\\coracao.jpg"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\coracao2.png",
+      "PackagePath": "staticwebassets\\imagens\\coracao2.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\edfisica.jpg",
+      "PackagePath": "staticwebassets\\imagens\\edfisica.jpg"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\envelope.png",
+      "PackagePath": "staticwebassets\\imagens\\envelope.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\logo4.png",
+      "PackagePath": "staticwebassets\\imagens\\logo4.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\nervoso.jpg",
+      "PackagePath": "staticwebassets\\imagens\\nervoso.jpg"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\outras.png",
+      "PackagePath": "staticwebassets\\imagens\\outras.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\sexual.png",
+      "PackagePath": "staticwebassets\\imagens\\sexual.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\sistemacirculatorio.png",
+      "PackagePath": "staticwebassets\\imagens\\sistemacirculatorio.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\sistemaurinario.png",
+      "PackagePath": "staticwebassets\\imagens\\sistemaurinario.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\subir.png",
+      "PackagePath": "staticwebassets\\imagens\\subir.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\telefone.png",
+      "PackagePath": "staticwebassets\\imagens\\telefone.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\top_arrow_48px.png",
+      "PackagePath": "staticwebassets\\imagens\\top_arrow_48px.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\tumor.jpg",
+      "PackagePath": "staticwebassets\\imagens\\tumor.jpg"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\up1.png",
+      "PackagePath": "staticwebassets\\imagens\\up1.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\up2.png",
+      "PackagePath": "staticwebassets\\imagens\\up2.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\up3.png",
+      "PackagePath": "staticwebassets\\imagens\\up3.png"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\imagens\\urinario.jpg",
+      "PackagePath": "staticwebassets\\imagens\\urinario.jpg"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Testes\\ProjetoBlog\\ProjetoBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.ProjetoBlog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.ProjetoBlog.props",
+      "PackagePath": "build\\ProjetoBlog.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjetoBlog.props",
+      "PackagePath": "buildMultiTargeting\\ProjetoBlog.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProjetoBlog.props",
+      "PackagePath": "buildTransitive\\ProjetoBlog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
