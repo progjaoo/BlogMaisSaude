@@ -57,14 +57,12 @@ namespace ProjetoBlog.Controllers
                 return RedirectToAction("Index");
             }
         }
-        [HttpGet]
         public IActionResult ApagarConfirmacao(int id)
         {
             Usuario usuario = _usuarioRepositorio.BuscarPorId(id);
             return View(usuario);
         }
 
-        [HttpPost]
         public IActionResult Apagar(int id)
         {
             try
